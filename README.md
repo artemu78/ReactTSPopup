@@ -1,2 +1,0 @@
-# ReactTSPopup
-Created with CodeSandbox
